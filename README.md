@@ -1,4 +1,0 @@
-DSA
-===
-
-Digital Sorting Algorithm
